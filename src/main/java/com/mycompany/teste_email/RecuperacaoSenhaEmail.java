@@ -26,7 +26,7 @@ public class RecuperacaoSenhaEmail {
         String smtpHost = "smtp.gmail.com";
         int smtpPort = 587;
         String smtpUser = "EMAIL@GMAIL.com";
-        String smtpPass = "APP_PASSWORD
+        String smtpPass = "APP_PASSWORD"
 
         // config smtp
         Properties props = new Properties();
