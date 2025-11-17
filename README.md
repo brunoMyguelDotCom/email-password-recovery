@@ -115,6 +115,7 @@ public class RecuperacaoSenhaEmail {
         System.out.print("Digite o código recebido: ");
         String codigoRecebido = scanner.nextLine();
 
+
         // Verifica se o código está correto
         if (codigo.equals(codigoRecebido)) {
             System.out.println("Código correto! Você pode redefinir a senha.");
