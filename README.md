@@ -146,17 +146,6 @@ Seu código de recuperação é: 123456
 Digite este código no software para redefinir sua senha.
 ```
 
----
-
-## Por que este projeto é bom para portfólio?
-
-- Mostra integração Java com APIs externas  
-- Demonstra lógica real de recuperação de senha  
-- Utiliza bibliotecas amplamente usadas no mercado  
-- Código limpo, útil e direto ao ponto  
-- Demonstra conhecimento de App Password e SMTP seguro  
-
----
 
 ## Licença
 
